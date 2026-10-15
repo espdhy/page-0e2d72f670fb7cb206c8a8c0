@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "8e339e6e3df093e33ba5b4ff",
+  "owner": "espdhy",
+  "repo": "page-0e2d72f670fb7cb206c8a8c0",
+  "title": "clashmi下载",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "0e2d72f670fb7cb206c8a8c0",
+      "a": "clashmi下载",
+      "b": "",
+      "entity": "clashmi下载",
+      "brand": "clashmi下载",
+      "separator": "",
+      "path": "index.html",
+      "hash": "42ed94ed3e40ebbba9de1fa3c35e62ddc5e146126f91819733e95b106435c681",
+      "content": {
+        "keyword1": "clashmi下载",
+        "keyword2": "",
+        "primary_entity": "clashmi下载",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "clashmi下载说明 Clash 客户端获取方式、三档机场订阅价格与日常网络加速步骤，便于按设备数和流量选择基础版、旗舰版或团队版。",
+          "AI_DESCRIPTION": "clashmi下载说明 Clash 客户端获取方式、三档机场订阅价格与日常网络加速步骤，便于按设备数和流量选择基础版、旗舰版或团队版。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n\n\n\n<style>\n*{box-sizing:border-box}\nhtml{scroll-behavior:auto}\nbody{margin:0;background:#f4f0e6;color:#14241c;font-family:system-ui,\"PingFang SC\",\"Hiragino Sans GB\",\"Noto Sans SC\",sans-serif;font-size:17px;line-height:1.7}\na{color:#0d5c38;text-decoration:underline}\na:hover{color:#083d25}\n.wrap{max-width:920px;margin:0 auto;padding:20px 16px 48px}\nheader{background:#1b4332;color:#f7f3ea;padding:16px}\nheader .wrap{padding:0}\n.brand{font-weight:700;letter-spacing:.04em}\nnav{margin-top:8px;display:flex;flex-wrap:wrap;gap:10px 14px}\nnav a{color:#e7f5ee}\nh1{font-size:1.75rem;line-height:1.35;margin:18px 0 10px}\nh2{font-size:1.35rem;margin:28px 0 10px;color:#1b4332}\nh3{font-size:1.08rem;margin:0 0 6px;color:#143d2c}\np{margin:0 0 12px}\n.lead{font-size:1.05rem}\n.grid{display:grid;grid-template-columns:1fr;gap:12px}\n.card{background:#fffdf8;border:1px solid #c9d7cc;border-radius:12px;padding:14px 14px 12px}\n.plans{display:grid;grid-template-columns:1fr;gap:12px}\n.plan{background:#fffdf8;border:1px solid #b7c9bc;border-radius:14px;padding:16px}\n.plan.featured{background:#1b4332;color:#f4f0e6;border-color:#1b4332}\n.plan.featured h3,.plan.featured .price{color:#f4f0e6}\n.tag{display:inline-block;background:#d8f3dc;color:#1b4332;border-radius:999px;padding:2px 8px;font-size:.85rem;margin-bottom:8px}\n.plan.featured .tag{background:#d8f3dc}\n.price{font-size:1.45rem;font-weight:700;margin:4px 0}\n.annual{margin:0 0 8px;color:#3d5348}\n.plan.featured .annual{color:#d5e8dc}\nul{margin:8px 0 0;padding-left:1.2em}\nli{margin:4px 0}\nol.steps{padding-left:1.2em}\nol.steps li{margin:8px 0}\n.faq{background:#e7f0e4;border:2px solid #1b4332;border-radius:16px;padding:8px 12px 16px;margin-top:8px}\n.faq h2{margin-top:12px}\ndetails{background:#fffdf8;border-radius:10px;margin:10px 0;padding:0 12px;border:1px solid #c5d5c8}\nsummary{cursor:pointer;font-weight:700;padding:12px 0;font-size:1.05rem}\ndetails p{padding-bottom:12px}\nfooter{margin-top:28px;color:#3d5348;font-size:.95rem}\n@media (min-width:720px){\n.grid{grid-template-columns:1fr 1fr}\n.plans{grid-template-columns:1fr 1fr 1fr}\nh1{font-size:2rem}\n}\n</style>\n\n\n<header>\n<div class=\"wrap\">\n<div class=\"brand\">clashmi下载</div>\n<nav>\n<a href=\"#about\">品牌简介</a>\n<a href=\"#scenes\">使用场景</a>\n<a href=\"#plans\">订阅套餐</a>\n<a href=\"#guide\">操作说明</a>\n<a href=\"#faq\">常见问题</a>\n</nav>\n</div>\n</header>\n<main class=\"wrap\">\n<h1>clashmi下载：客户端、机场订阅与网络加速</h1>\n<p class=\"lead\">clashmi下载面向需要稳定跨境访问的个人与小团队，说明如何获取 Clash 客户端、按月或按年选择机场订阅，以及在日常办公、学习和出行中做网络加速。页面只提供说明与套餐对照，下载与订阅入口以本页锚点所示的获取流程为准。</p>\n<section id=\"about\">\n<h2>品牌简介</h2>\n<p>clashmi下载把客户端获取和机场订阅放在同一套说明里。ClashMi 一类客户端负责在手机或电脑上管理规则、节点和分流；机场订阅则提供可更新的线路清单与流量额度。你不需要同时比较一堆分散页面，先按设备数量和每月流量选定套餐，再按操作说明完成导入。</p>\n<p>线路定位是网络加速与常规访问优化，而不是改写系统或绕过账户安全。套餐区分普通线路、流媒体解锁和更高带宽的专线优化，方便按实际用途取舍。年付价格已在各档中单独标出，避免把月费简单乘以十二个月造成误解。</p>\n</section>\n<section id=\"scenes\">\n<h2>使用场景</h2>\n<div class=\"grid\">\n<article class=\"card\">\n<h3>远程办公与资料同步</h3>\n<p>在外出或跨地区协作时，用规则模式只代理需要加速的网站与网盘，本地局域网打印、国内办公软件仍走直连，减少整机代理带来的卡顿。</p>\n</article>\n<article class=\"card\">\n<h3>课程、文献与软件更新</h3>\n<p>学习资料、代码托管和部分软件更新源对线路质量敏感。旗舰版包含更多原生流媒体与常用服务线路，适合同时开着课程视频和文档的人。</p>\n</article>\n<article class=\"card\">\n<h3>出行时的临时加速</h3>\n<p>基础版支持 3 台设备，适合手机加一台笔记本的短途使用。流量按月结算，用完可在下个周期恢复，不必为偶尔出行购买团队额度。</p>\n</article>\n<article class=\"card\">\n<h3>小团队共享订阅</h3>\n<p>团队版支持 20 台设备、更高额度与企业定制路由说明，适合工作室统一分发订阅，并由专属客户经理协助核对设备数和线路策略。</p>\n</article>\n</div>\n</section>\n<section id=\"plans\">\n<h2>机场订阅套餐</h2>\n<p>以下为 clashmi下载当前公开的三档订阅。价格以人民币计，年付为一次付清的优惠价，不是月费自动续费承诺。</p>\n<div class=\"plans\">\n<article class=\"plan\">\n<h3>基础版</h3>\n<p class=\"price\">¥15/月</p>\n<p class=\"annual\">按年付仅需 ¥150/年</p>\n<ul>\n<li>每月 100GB 极速流量</li>\n<li>支持 3 台设备同时在线</li>\n<li>解锁基础流媒体</li>\n<li>普通线路节点池</li>\n</ul>\n</article>\n<article class=\"plan featured\">\n<span class=\"tag\">更常选择</span>\n<h3>旗舰版</h3>\n<p class=\"price\">¥35/月</p>\n<p class=\"annual\">按年付仅需 ¥350/年</p>\n<ul>\n<li>每月 300GB 极速流量</li>\n<li>支持 5 台设备同时在线</li>\n<li>全节点原生流媒体解锁</li>\n<li>IPLC 专线游戏加速优化</li>\n<li>7x24 优先工单支持</li>\n</ul>\n</article>\n<article class=\"plan\">\n<h3>团队版</h3>\n<p class=\"price\">¥85/月</p>\n<p class=\"annual\">按年付仅需 ¥850/年</p>\n<ul>\n<li>每月 1000GB 极速流量</li>\n<li>支持 20 台设备同时在线</li>\n<li>VIP 专属高带宽节点</li>\n<li>支持企业定制路由</li>\n<li>专属客户经理服务</li>\n</ul>\n</article>\n</div>\n</section>\n<section id=\"guide\">\n<h2>操作说明</h2>\n<p>客户端下载与订阅导入按下面顺序进行。本页链接仅指向页内说明，不跳转到第三方地址。</p>\n<ol class=\"steps\">\n<li>确认系统：先看设备是手机、平板还是电脑，以及是否允许安装第三方网络工具。一台设备占用一个在线名额。</li>\n<li>获取客户端：在 <a href=\"#download\">客户端下载说明</a> 中核对版本用途，只从你信任的应用商店或本站后续公示的获取入口安装，安装后先打开一次完成初始化。</li>\n<li>选定订阅：对照上方套餐，按流量和同时在线设备数选择基础版、旗舰版或团队版。年付金额分别为 150、350、850 元。</li>\n<li>导入订阅：在客户端的订阅或配置页粘贴购买后提供的订阅地址，执行更新。更新成功后应能看到节点列表，而不是空白配置。</li>\n<li>选择模式：日常建议使用规则分流，仅让需要网络加速的网站走代理；游戏或直播卡顿时，再临时切换旗舰版中的专线节点，用完改回规则模式以节省流量。</li>\n<li>核对用量：在客户端或账户页查看本月已用流量。接近额度时优先关掉后台大文件同步，避免多台设备同时拉流。</li>\n</ol>\n<h3 id=\"download\">客户端下载说明</h3>\n<p>clashmi下载所指的客户端是用于管理机场订阅的 Clash 图形界面，不替代系统自带的网络设置。请使用与自己设备匹配的版本，不要安装来源不明的改包。若应用商店已有同名应用，优先核对开发者信息后再安装。订阅地址属于账户凭证，不要发到群聊或截图外传。</p>\n<h3>网络加速时的基本习惯</h3>\n<p>加速器或客户端开启后，先访问一个常用网页确认连通，再打开视频或游戏。若仅个别网站变慢，多半是节点拥挤，可换同地区另一条线路，而不是反复重装。公司或校园网若拦截代理端口，应遵守所在网络的管理规定，本页不提供绕过审计的做法。</p>\n</section>\n<section class=\"faq\" id=\"faq\">\n<h2>常见问题</h2>\n<p>下面集中回答选购、客户端和流量问题。点开问题即可看到说明。</p>\n<details>\n<summary>clashmi下载适合哪些设备？</summary>\n<p>基础版可同时在线 3 台，旗舰版 5 台，团队版 20 台。手机、平板和电脑各算一台。超出套餐设备数时，后登录的设备可能无法同时连接，需要先在旧设备上退出或升级套餐。</p>\n</details>\n<details>\n<summary>官网下载的客户端和机场订阅是一回事吗？</summary>\n<p>不是。客户端是安装在设备上的管理工具，机场订阅是按月提供流量和节点的服务。只安装客户端而没有有效订阅，列表里不会出现可用线路；只有订阅地址、没有安装客户端，也无法在本机一键切换节点。</p>\n</details>\n<details>\n<summary>三档套餐怎么选？</summary>\n<p>偶尔查阅资料、设备不超过 3 台，选基础版，月付 15 元或年付 150 元。经常看流媒体、需要专线优化和优先工单，选旗舰版，月付 35 元或年付 350 元。多人共用、要更高带宽和定制路由，选团队版，月付 85 元或年付 850 元。</p>\n</details>\n<details>\n<summary>每月流量如何计算，用完会怎样？</summary>\n<p>基础版 100GB、旗舰版 300GB、团队版 1000GB，均按自然月统计上行和下行。视频、网盘和系统更新最耗流量。额度用尽后极速线路会暂停，直到下个计费周期恢复；本地直连不受影响。年付只是预付十二个月的价格优惠，并不把十二个月流量合并成一个池。</p>\n</details>\n<details>\n<summary>订阅更新失败或节点时通时断怎么办？</summary>\n<p>先检查订阅地址是否完整、是否过期，再在客户端手动更新一次。仍失败时更换网络环境重试，并确认设备数没有超过套餐。旗舰版可走 7×24 优先工单，团队版由客户经理协助；请准备套餐名称和大致报错时间，不要发送完整订阅链接到公开场合。</p>\n</details>\n<details>\n<summary>流媒体和游戏加速是否每档都有？</summary>\n<p>基础版提供基础流媒体解锁和普通线路。旗舰版提供全节点原生流媒体解锁，以及 IPLC 专线的游戏加速优化。团队版在更高带宽节点之外，还可以按企业网络做定制路由。具体片源或游戏是否可用，受版权地区和当时线路负载影响，不能保证每一部内容都可打开。</p>\n</details>\n<details>\n<summary>可以退订或更换套餐吗？</summary>\n<p>未使用的整月可以在下个周期改到其他档位。已经消耗的当月流量不按天拆分退回。从基础版升到旗舰版或团队版时，按剩余天数补差价；降级则从下一计费月生效，避免当月设备数突然超限。</p>\n</details>\n</section>\n<footer>\n<p>clashmi下载用于说明客户端获取、机场订阅与日常网络加速。请在合法合规的前提下使用，并遵守学校、公司及当地网络管理要求。</p>\n<p><a href=\"#about\">返回简介</a> · <a href=\"#plans\">查看套餐</a> · <a href=\"#faq\">返回常见问题</a></p>\n</footer>\n<section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n\n",
+          "hash": "5145cdc3b60548dc902a31cb0af87e39b0718d885fe4c6dc42508fed3220154a",
+          "seo": {
+            "title": "clashmi下载官网：客户端下载、机场订阅与网络加速说明",
+            "keywords": "clashmi下载,clashmi,机场订阅,VPN,网络加速,加速器,客户端下载,官网下载",
+            "description": "clashmi下载说明 Clash 客户端获取方式、三档机场订阅价格与日常网络加速步骤，便于按设备数和流量选择基础版、旗舰版或团队版。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "junfawangluo.cn",
+    "host": "p-90dcb7e33c.junfawangluo.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "c5b8fd1ea30b7a563c8a3f203585a84448dd6505e407bea42e1046aede0f81b5",
+    "sitemap.xml": "40a8f6d008c12b3234e5d8f161519359d17932f2bf25a1a33c23d1bd3511d6e7",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "5565678b42d538bc0203e613608d4d660e88b06a64db1f48de6dd7bf2f37fb1a",
+    "robots.txt": "f270434ac84d2b50f098c7bcbc15ab0e7c7cb2d91b2cd344a127a089058fdbf3",
+    "ad06b449c06ac52e7ef9ecf1244c6045.txt": "cf74fcd05a5e8695cb76dd9b3a57a18b0e52fdfe7c7466747420615b58517088"
+  },
+  "revision": "f68b3cbeacc28a88acf5f2fa17b1ad445204b7c8c0b216d46b5f1efc84ace0ff"
+}
